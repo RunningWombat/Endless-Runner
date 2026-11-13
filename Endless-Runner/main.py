@@ -1,10 +1,5 @@
-# Liam Symons
-# ICS3U1-01 Final Performance Task
-# 17/6/2024
-
 # Car-dodge game with sprites inspiried by the Plants Vs Zombies series
 # Controls are the arrow keys to move left and right
-
 # - Resources -
 
 # This video helped with .rect transparency: https://www.youtube.com/watch?v=8_HVdxBqJmE
